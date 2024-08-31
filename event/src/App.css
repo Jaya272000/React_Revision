@@ -1,0 +1,25 @@
+nav{
+  display: flex;
+  background-color: rgb(224, 136, 136);
+  color: wheat;
+}
+li{
+  list-style:none;
+  padding: 23px
+
+}
+li a{
+  color: white;
+}
+
+.red{
+  background-color: red;
+  color: white;
+}
+/* Routing.css */
+.red {
+  text-decoration: none;
+  color: black; /* Default link color */
+}
+
+
